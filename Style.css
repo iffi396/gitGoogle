@@ -2,7 +2,7 @@
 body {
 	height: 100vh;
 }
-			/*back Button Styling*/
+			/*Top Buttons*/
 .backbtn {
 	display: flex!important;
     justify-content: center!important;
@@ -18,7 +18,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: flex-end;
-	height: 25vw;
+	height: 20vw;
 }
 span {
 	font:8vw solid;
@@ -54,7 +54,7 @@ input {
 .btn-st {
 	font-weight: bold;
 	color: #757575;
-	margin: 0px 0.35vw;
+	margin: 15px 0.35vw;
 	border: none;
 	background-color: #f1f1f1;
 	padding: 0.50vw 1vw;
@@ -112,7 +112,7 @@ input {
 .btn-st {
 	font-weight: bold;
 	color: #757575;
-	margin: 0px 0.35vw;
+	margin: 15px 0.35vw;
 	border: none;
 	background-color: #f1f1f1;
 	padding: 5px 40px;
