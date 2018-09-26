@@ -15,7 +15,7 @@ This App Contain Very Basic **JAVA SCRIPT CODE**.
 
 
 
-# [gitGoogle MasterView](https://github.com/iffyyy396/gitGoogle)
+# [gitGoogle MasterView](https://iffyyy396.github.io/gitGoogle)
 
 
 
