@@ -2,6 +2,17 @@
 body {
 	height: 100vh;
 }
+			/*back Button Styling*/
+.backbtn {
+	display: flex!important;
+    justify-content: center!important;
+    margin: 20px!important;
+}
+.btn-success {
+	width: 250px!important;
+    font-size: 20px!important;
+    margin: 20px!important;
+}
 			/*Logo*/
 .logo	{
 	display: flex;
